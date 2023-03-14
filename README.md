@@ -1,4 +1,4 @@
-# TM Forum Open-API Schema Repository
+# TM Forum Open-API Schema Repository - Cloned Version
 
 [![CircleCI](https://circleci.com/gh/tmforum-rand/schemas/tree/master.svg?style=svg)](https://circleci.com/gh/tmforum-rand/schemas/tree/master)
 
